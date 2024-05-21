@@ -1,5 +1,4 @@
 package-as: CHANGEME
-enable-nolib-creation: no
 
 license-output: LICENSE
 
