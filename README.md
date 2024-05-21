@@ -1,6 +1,6 @@
 # World of Warcraft Addon Template
 
-This repository is used as a template for creating World of Warcraft addons. Includes a `.pkgmeta` file, and the [BigWigs packager](https://github.com/BigWigsMods/packager).
+This repository is used as a template for creating World of Warcraft addons. Includes a `.pkgmeta` file, and a Github action for the [BigWigs packager](https://github.com/BigWigsMods/packager).
 
 ### Usage
 
