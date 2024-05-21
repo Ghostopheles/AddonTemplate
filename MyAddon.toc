@@ -10,3 +10,4 @@
 ## X-Curse-Project-ID: CHANGEME
 ## X-Wago-ID: CHANGEME
 
+MyAddon.lua
