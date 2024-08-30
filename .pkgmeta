@@ -3,14 +3,14 @@ package-as: CHANGEME
 license-output: LICENSE
 
 ignore:
-  - CHANGEME/Libs/*/*.rockspec
-  - CHANGEME/Libs/*/*.toc
-  - CHANGEME/Libs/*/changelog.*
-  - CHANGEME/Libs/*/CHANGELOG.*
-  - CHANGEME/Libs/*/docs
-  - CHANGEME/Libs/*/examples
-  - CHANGEME/Libs/*/README.*
-  - CHANGEME/Libs/*/tests
-  - CHANGEME/Libs/*/.pkgmeta
+  - Libs/*/*.rockspec
+  - Libs/*/*.toc
+  - Libs/*/changelog.*
+  - Libs/*/CHANGELOG.*
+  - Libs/*/docs
+  - Libs/*/examples
+  - Libs/*/README.*
+  - Libs/*/tests
+  - Libs/*/.pkgmeta
   - CHANGELOG.md
   - README.md
